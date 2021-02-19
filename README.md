@@ -12,3 +12,4 @@ To do:
 * Tidy up HTML/CSS
 * jQuery CDN
 * Add colour picker
+* Tidy up
